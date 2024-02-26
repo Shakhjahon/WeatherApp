@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="mainScreen">MainScreen</string>
+    <string name="moreForecast">MoreForecastScreen</string>
+    <string name="looding">Ожидание сети …</string>
+    <string name="language">Language</string>
+    <string name="weather">Weather</string>
+    <string name="splashScreen">SplashScreen</string>
+    <string name="weathers">Погода</string>
+</resources>
